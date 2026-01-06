@@ -1,5 +1,7 @@
 ### Hi, my name is Leila!
-![octocat](https://github.com/user-attachments/assets/9481054b-519c-4fd3-897e-d2aa40683e4e)
+<img width="300" height="300" alt="octocat" src="https://github.com/user-attachments/assets/8c88ff1f-485c-4b40-a152-b4de94081b37">
+
+
 - I'm a senior at Walpole High School
 - I'm currently learning web design
 - How to reach me: lel26@wpsma.org
